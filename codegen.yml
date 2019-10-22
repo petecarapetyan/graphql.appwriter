@@ -1,0 +1,7 @@
+overwrite: true
+schema: "amplify/backend/api/awOneGen/schema.graphql"
+generates:
+  generated/:
+    preset: src/my-preset.js
+    plugins:
+      - src/my-plugin.js
