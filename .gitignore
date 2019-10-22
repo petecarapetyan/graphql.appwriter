@@ -1,3 +1,26 @@
+## be sure to ignore everything 
+## that was brought in externally
+## specifically from
+## - amplify
+## - open-wc
+## - aws
+
+.editorconfig
+.graphqlconfig.yml
+.storybook/
+LICENSE
+README.md
+amplify/
+del2.json
+delme.json
+index.html
+karma.bs.config.js
+karma.conf.js
+packages/
+rollup.config.js
+src/graphql
+yarn.lock
+
 # Logs
 logs
 *.log
