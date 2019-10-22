@@ -20,6 +20,7 @@ packages/
 rollup.config.js
 src/graphql
 yarn.lock
+src/aws-exports.js
 
 # Logs
 logs
